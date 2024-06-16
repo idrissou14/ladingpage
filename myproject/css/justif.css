@@ -1,0 +1,55 @@
+
+h2{
+    color: white;
+}
+
+#rap-abs-form{
+    padding-bottom: 1%;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 1%;
+}
+
+.form{
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    margin-top: 1%;
+    height: auto;
+    background-color:rgb(3, 30, 80);
+    
+}
+
+input{
+    height: 2rem;
+    width: 15rem;
+}
+
+textarea{
+    height: 10rem;
+    width: 30rem;
+}
+
+#valid-form{
+    background-color: #1E90FF;
+}
+
+header{
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo{
+    width: 6rem;
+    height: auto;
+    margin: 0.8rem;
+}
+
+.container{
+    display: flex;
+    justify-content: start;
+    color: rgb(3, 30, 80);
+}
+

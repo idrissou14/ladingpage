@@ -1,0 +1,55 @@
+body{
+    background-color: red;
+}
+
+#champ{
+    display: flex;
+    justify-content: center;
+    border: 1px;
+    border: solid;
+    padding: 2rem;
+    border-width: 0;
+}
+
+input{
+    margin: 1.2rem;
+    height: 2rem;
+    width: 15rem;
+}
+
+#sub{
+    width: 5rem;
+    border-radius: 15px;
+}
+
+button{
+    width: 5rem;
+    height: 2rem;
+    border-radius: 15px;
+}
+
+#contener{
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    padding-bottom: 0;
+    
+}
+
+div{
+    border: solid;
+    padding: 2rem;
+}
+
+#labels{
+    border-left: 0;
+}
+
+#entete{
+    display: flex;
+    justify-content: center;
+}
+
+.form-buttom{
+    background-color: gray;
+}

@@ -1,0 +1,73 @@
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #f2f2f2;
+}
+
+form{
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    margin-top: 1%;
+    
+}
+
+input{
+    height: 1.5rem;
+    margin-left: 1%;
+    margin-right: 2%;
+    
+}
+
+#name{
+    width: 18rem;
+}
+
+.bouton{
+    height: 2rem;
+    width: 6rem;
+    background-color: #1E90FF;
+}
+
+#add{
+    display: flex;
+    justify-content: start;
+    align-items: baseline;
+    background-color: rgb(3, 30, 80);
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+#seach{
+    display: flex;
+    justify-content: end;
+    background-color:rgb(3, 30, 80);
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+
+#txt-rech{
+    margin-right: 5rem;
+    width: 18rem;
+}
+.input-with-icon input[type="text"] {
+    padding-left: 30px; /* Ajustez ceci en fonction de la largeur de l'icône */
+}
+
+#modify{
+    background-color: #1E90FF;
+    border-color: #1E90FF;
+}
+
+#delete{
+    background-color: red;
+    border-color: red;
+}
+
+

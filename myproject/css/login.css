@@ -1,0 +1,44 @@
+.login{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 8rem;
+    height: auto;
+    margin: 0.8rem;
+    margin-left: 3.5rem;
+}
+
+form{
+    border: solid;
+    border-color: whitesmoke;
+    width: 20rem;
+    height: auto;
+    border-radius: 4%;
+    margin-top: 10%;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1);
+}
+
+input{
+    margin: 2%;
+    margin-bottom: 8%;
+    width: 15rem;
+    height: 2rem;
+}
+
+#bottom{
+    background-color:rgb(3, 30, 80);
+    color: #fff;
+    border-color: rgb(3, 30, 80) ;
+}
+
+#bottom:hover{
+    background-color: #1E90FF;
+    border-color: #1E90FF;
+}
+
+body{
+   border-color: whitesmoke; 
+   font-family: Arial, sans-serif;
+}

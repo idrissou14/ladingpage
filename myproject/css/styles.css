@@ -1,0 +1,28 @@
+#menu{
+    display: flex;
+    justify-content: center;
+    margin-top: 15rem;
+    height: 10rem
+}
+
+button{
+    width: 8rem;
+    margin: 1%;
+    height: 8rem;
+    margin-left: 5rem;
+    border-radius: 13rem;
+    background-color:rgb(3, 30, 80);
+    color: white;
+    transition: 0.8s;
+}
+
+button:hover{
+    width: 10rem;
+    height: 10rem;
+    background-color: #1E90FF;
+}
+
+body{
+    background-color: whitesmoke;
+    font-family: Arial, sans-serif;
+}

@@ -1,0 +1,76 @@
+table {
+    width: 100%;
+    border-collapse: separate;
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+th {
+    background-color: #c7bfbf;
+}
+
+form{
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+    margin-top: 1%;
+    height: auto;
+    background-color:rgb(3, 30, 80);
+    
+}
+
+input{
+    height: 2rem;
+    margin-left: 1%;
+    margin-right: 2%;
+    margin-top: 1%;
+    
+}
+
+.form-buttom{
+    margin-bottom: 1%;
+    height: 2rem;
+    margin-left: 1%;
+    margin-right: 2%;
+    width: 8.5%;
+    background-color: #1E90FF;
+}
+
+#sexe{
+    height: 2.2rem;
+    width: 5%;
+    background-color: white;
+    border-color: gray;
+}
+
+#etud-name, #etud-surname, #etud-date{
+    width: 20%;
+}
+
+#etud-mle{
+    width: 8%;
+}
+
+#etud-parent{
+    width: 7%;
+}
+
+#seach{
+    display: flex;
+    justify-content: end;
+    background-color:rgb(3, 30, 80);
+    padding-top: 1%;
+    padding-bottom: 0.5%;
+}
+#txt-rech{
+    margin-right: 5rem;
+    width: 18rem;
+}
+
+.bouton{
+    height: 2rem;
+    width: 6rem;
+    background-color: #1E90FF;
+}
+
